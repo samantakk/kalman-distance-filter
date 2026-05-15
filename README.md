@@ -31,7 +31,7 @@ This produces a much more stable output compared to raw readings.
 
 ### Raw vs Kalman Filtered Distance
 
-![Result 1](results1.png)
+![Result 1](doc/result1.png)
 
 The filtered output converges gradually and significantly reduces fluctuations in sensor measurements.
 
