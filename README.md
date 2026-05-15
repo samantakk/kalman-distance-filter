@@ -33,10 +33,6 @@ This produces a much more stable output compared to raw readings.
 
 ![Result 1](results1.png)
 
-![Result 2](results2.png)
-
-![Result 3](results3.png)
-
 The filtered output converges gradually and significantly reduces fluctuations in sensor measurements.
 
 ---
